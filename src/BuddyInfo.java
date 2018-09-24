@@ -15,6 +15,7 @@ public class BuddyInfo {
 		System.out.println("Hello World!");
 		System.out.println("Test change.");
 		System.out.println("Test change 2.");
+		System.out.println("Test Change 3.");
 		
 		new BuddyInfo("Homer", "100 Wayview Dr.", "613-229-9981");
 		
