@@ -14,6 +14,7 @@ public class BuddyInfo {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("Test change.");
+		System.out.println("Test change 2.");
 		
 		new BuddyInfo("Homer", "100 Wayview Dr.", "613-229-9981");
 		
